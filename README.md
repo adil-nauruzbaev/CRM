@@ -1,6 +1,13 @@
 # CRM
 
+![image](https://github.com/adil-nauruzbaev/CRM/assets/106264625/9a451823-89f2-4431-abf3-98eebae7d416)
+
+![image](https://github.com/adil-nauruzbaev/CRM/assets/106264625/5a0370dc-4e47-41aa-bc23-3b55a54df696)
+
+
+
 Calendar Widget 
+
 
 ![qweqweeee](https://github.com/adil-nauruzbaev/CRMFF/assets/106264625/e8dcdb74-7f02-45de-9587-1a37ccfb2ed6)
 
