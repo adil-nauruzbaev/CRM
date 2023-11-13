@@ -18,8 +18,8 @@ Calendar Widget
 import 'package:flutter/material.dart';
 import 'package:collection/collection.dart';
 
-class NewCustomWidget2 extends StatefulWidget {
-  const NewCustomWidget2({
+class CalendarWidget extends StatefulWidget {
+  const CalendarWidget({
     Key? key,
     this.width,
     this.height,
@@ -39,10 +39,10 @@ class NewCustomWidget2 extends StatefulWidget {
   final List<DateTime> listOfdate;
 
   @override
-  _NewCustomWidget2State createState() => _NewCustomWidget2State();
+  _CalendarWidgetState createState() => _CalendarWidgetState();
 }
 
-class _NewCustomWidget2State extends State<NewCustomWidget2> {
+class _CalendarWidgetState extends State<CalendarWidget> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
